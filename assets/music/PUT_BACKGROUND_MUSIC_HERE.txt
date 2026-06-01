@@ -1,0 +1,10 @@
+Drop your background music here as: background.mp3
+
+The script looks for exactly this filename. If you have a different format
+(e.g. .wav, .m4a), either convert it to mp3 or change MUSIC_PATH at the top
+of make_video.py.
+
+Pick something royalty-free for YouTube — try YouTube Audio Library,
+Pixabay Music, or Free Music Archive.
+
+You can delete this .txt file once you've added music.

@@ -1,0 +1,10 @@
+Drop your astronomy images in this folder.
+
+Supported: .jpg, .jpeg, .png, .webp
+Any size — they'll be auto-cropped to 16:9.
+Reference them by filename in ../../content.csv
+
+Example: if you save a file here as "saturn.jpg", add a line to content.csv like:
+    saturn.jpg,Saturn has the most spectacular ring system in our solar system.
+
+You can delete this .txt file once you've added images.
